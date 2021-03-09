@@ -8,7 +8,7 @@ export default class Navbar extends Component {
   render() {
     return (
       <Router>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container">
             <Link class="navbar-brand" to="">
               Cálculo de Areas
