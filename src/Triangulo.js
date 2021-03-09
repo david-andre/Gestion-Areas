@@ -53,7 +53,7 @@ export default class Cuadrado extends Component {
                 />
               </div>
             </div>
-            <input type="submit" value="Calcular" className="btn btn-success" />
+            <input type="submit" value="Calcular" className="btn btn-info" />
           </form>
         </div>
       </div>
